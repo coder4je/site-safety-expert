@@ -25,3 +25,5 @@ This app is intended for informational purposes only and should not be used as a
 
 🙏 Acknowledgments
 Thank you for using our app! If you have any feedback or suggestions for improvement, please feel free to contact us at coding4je@gmail.com
+
+ENJOY!
