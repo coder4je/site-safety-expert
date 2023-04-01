@@ -39,13 +39,13 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>OpenAI Quickstart</title>
+        <title>AI Safety Expert</title>
         <link rel="icon" href="/helmet.png" />
       </Head>
 
       <main className={styles.main}>
         <img src="/helmet.png" className={styles.icon} />
-        <h3>Ask a Safety Expert</h3>
+        <h3>Construction Safety Code finder</h3>
         <form onSubmit={onSubmit}>
           <label>STATE</label>
           <select
