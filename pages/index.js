@@ -66,7 +66,7 @@ export default function Home() {
             value={subject}
             onChange={(e) => setSubject(e.target.value)}
           />
-          <input type="submit" value="Generate names" />
+          <input type="submit" value="Find Safety Regulations" />
         </form>
 
         {loading && (
