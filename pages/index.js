@@ -31,9 +31,9 @@ export default function Home() {
       setResult(data.result.replaceAll("\n", "<br />"));
     } catch (e) {
       alert("Failed to generate results, Try later");
+    } finally {
+      setLoading(false);
     }
-
-    setLoading(false);
   }
 
   return (

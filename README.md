@@ -1,6 +1,6 @@
 👷‍♀️👷‍♂️ Construction Safety Code Search App 👷‍♀️👷‍♂️
 
-This app is designed to help users easily search for construction safety codes by state and keywords.
+Looking for construction safety regulations in the U.S.? Look no further than AISafetyExpert! Our app makes it easy to find and understand construction safety regulations in any state, as well as OHSA regulations related to any safety-related subject. With a user-friendly interface and powerful search capabilities, you'll be able to quickly and easily access the information you need to stay safe on the job site. Download AISafetyExpert today and get started!
 
 📱 Features
 

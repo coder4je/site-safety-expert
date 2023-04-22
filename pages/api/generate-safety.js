@@ -21,5 +21,5 @@ export default async function (req, res) {
 }
 
 function generatePrompt(state, subject) {
-  return `list key points from Department of Buildings of ${state} and from OSHA for ${subject}`;
+  return `Can you provide a list of key points from both the Department of Buildings of ${state} and the Occupational Safety and Health Administration (OSHA) related to ${subject} at hand? Please provide the information in a list format`;
 }
